@@ -1,0 +1,100 @@
+<calculate the following for subset dataset 1>
+mean: 9.978
+geo_mean: inf
+median: 10.0
+mode: 9.0
+variance: 10.149516000000036
+StandardDeviation: 3.185830503965965
+skewness: 0.17015433293519475
+kurtosis: 2.8161261786548226
+
+<calculate the following for subset dataset 2>
+mean: 10.014
+geo_mean: inf
+median: 10.0
+mode: 10.0
+variance: 10.103803999999995
+StandardDeviation: 3.1786481403263234
+skewness: 0.2965969497879963
+kurtosis: 3.067806147609972
+
+<calculate the following for subset dataset 3>
+mean: 9.938
+geo_mean: inf
+median: 10.0
+mode: 10.0
+variance: 10.224156000000022
+StandardDeviation: 3.19752341664608
+skewness: 0.35415205724655435
+kurtosis: 3.168935577381038
+
+<calculate the following for subset dataset 4>
+mean: 10.083
+geo_mean: inf
+median: 10.0
+mode: 9.0
+variance: 9.85011099999999
+StandardDeviation: 3.1384886490156356
+skewness: 0.3130493006853107
+kurtosis: 3.0128084384313234
+
+<calculate the following for subset dataset 5>
+mean: 9.953
+geo_mean: inf
+median: 10.0
+mode: 11.0
+variance: 10.188791000000037
+StandardDeviation: 3.1919885651424313
+skewness: 0.25396947484105503
+kurtosis: 2.9941662968791776
+
+<calculate the following for subset dataset 6>
+mean: 9.857
+geo_mean: inf
+median: 10.0
+mode: 9.0
+variance: 9.61855099999992
+StandardDeviation: 3.101378886882401
+skewness: 0.2211234361783912
+kurtosis: 2.8450217050961526
+
+<calculate the following for subset dataset 7>
+mean: 9.867
+geo_mean: nan
+median: 10.0
+mode: 9.0
+variance: 9.64331099999996
+StandardDeviation: 3.1053680941234583
+skewness: 0.2241042855603896
+kurtosis: 2.875336729361191
+
+<calculate the following for subset dataset 8>
+mean: 10.027
+geo_mean: inf
+median: 10.0
+mode: 11.0
+variance: 9.598270999999945
+StandardDeviation: 3.0981076482265664
+skewness: 0.20841474962740483
+kurtosis: 2.6403572911394093
+
+<calculate the following for subset dataset 9>
+mean: 10.036
+geo_mean: inf
+median: 10.0
+mode: 9.0
+variance: 10.464704000000031
+StandardDeviation: 3.2349194734954425
+skewness: 0.2888345795414705
+kurtosis: 3.1146793328096556
+
+<calculate the following for subset dataset 10>
+mean: 10.019
+geo_mean: inf
+median: 10.0
+mode: 9.0
+variance: 10.072639000000027
+StandardDeviation: 3.173742113026833
+skewness: 0.27918118996106395
+kurtosis: 3.287002584913436
+

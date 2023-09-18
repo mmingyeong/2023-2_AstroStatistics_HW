@@ -1,0 +1,10 @@
+<calculate the following for subset Dataset2>
+mean: 0.499820544800124
+geo_mean: 0.4997322092717983
+median: 0.5000277711329199
+mode: Not exist
+variance: 8.826945052491794e-05
+StandardDeviation: 0.009395182303974625
+skewness: 0.0038533837348488378
+kurtosis: 2.9775116178788372
+

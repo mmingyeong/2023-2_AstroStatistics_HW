@@ -1,0 +1,100 @@
+<calculate the following for subset dataset 1>
+mean: 3.899484570156791
+geo_mean: inf
+median: 3.3461399098108657
+mode: Not exist
+variance: 7.46962286833211
+StandardDeviation: 2.7330610802417334
+skewness: 1.3603894543607413
+kurtosis: 5.69797433439668
+
+<calculate the following for subset dataset 2>
+mean: 4.012035972929117
+geo_mean: inf
+median: 3.4409184533404726
+mode: Not exist
+variance: 7.080075905385176
+StandardDeviation: 2.660841202587102
+skewness: 1.1453658145349797
+kurtosis: 4.809593758015298
+
+<calculate the following for subset dataset 3>
+mean: 4.102864181002587
+geo_mean: inf
+median: 3.297276524474827
+mode: Not exist
+variance: 9.755844721293272
+StandardDeviation: 3.1234347634124315
+skewness: 1.6742002079310436
+kurtosis: 7.689490559018485
+
+<calculate the following for subset dataset 4>
+mean: 4.03050623324052
+geo_mean: inf
+median: 3.448125593404048
+mode: Not exist
+variance: 7.754486977373974
+StandardDeviation: 2.7846879497304493
+skewness: 1.2711493942805294
+kurtosis: 5.036320380968432
+
+<calculate the following for subset dataset 5>
+mean: 4.008557014331891
+geo_mean: inf
+median: 3.5006349256193596
+mode: Not exist
+variance: 7.639402977855046
+StandardDeviation: 2.7639469925914004
+skewness: 1.2335040158445711
+kurtosis: 4.995749759633996
+
+<calculate the following for subset dataset 6>
+mean: 4.131723711735572
+geo_mean: inf
+median: 3.603778942530715
+mode: Not exist
+variance: 8.17781573999677
+StandardDeviation: 2.859688049420211
+skewness: 1.2010593388935613
+kurtosis: 5.0476291669554465
+
+<calculate the following for subset dataset 7>
+mean: 3.9425572795357304
+geo_mean: inf
+median: 3.2927628000239144
+mode: Not exist
+variance: 7.552513016221989
+StandardDeviation: 2.7481835848832934
+skewness: 1.3610156175275385
+kurtosis: 5.70076039108694
+
+<calculate the following for subset dataset 8>
+mean: 3.948764711101466
+geo_mean: inf
+median: 3.2456282812941413
+mode: Not exist
+variance: 8.693234018845574
+StandardDeviation: 2.948429076448266
+skewness: 1.5658697600594647
+kurtosis: 6.283655341592659
+
+<calculate the following for subset dataset 9>
+mean: 3.8718893209438985
+geo_mean: inf
+median: 3.238889322199208
+mode: Not exist
+variance: 7.545008106119426
+StandardDeviation: 2.7468178145118083
+skewness: 1.3498644743368338
+kurtosis: 5.802680935519187
+
+<calculate the following for subset dataset 10>
+mean: 3.986645801243016
+geo_mean: inf
+median: 3.4223497343013882
+mode: Not exist
+variance: 7.920681691093742
+StandardDeviation: 2.8143705674792976
+skewness: 1.4449958076654776
+kurtosis: 6.225988522370861
+

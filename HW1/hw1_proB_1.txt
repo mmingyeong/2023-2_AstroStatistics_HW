@@ -1,0 +1,10 @@
+<calculate the following for subset dataset 1>
+<calculate the following for subset dataset 2>
+<calculate the following for subset dataset 3>
+<calculate the following for subset dataset 4>
+<calculate the following for subset dataset 5>
+<calculate the following for subset dataset 6>
+<calculate the following for subset dataset 7>
+<calculate the following for subset dataset 8>
+<calculate the following for subset dataset 9>
+<calculate the following for subset dataset 10>
